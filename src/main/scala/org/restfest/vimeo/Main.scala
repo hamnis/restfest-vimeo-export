@@ -74,7 +74,7 @@ object Main extends App {
   }
 
 
-  val exportDir = new File("target/export")
+  val exportDir = new File("export")
   if (!exportDir.exists() && !exportDir.mkdirs()) {
     sys.error("Unable to create export directory")
   }
@@ -103,7 +103,7 @@ object Main extends App {
     })
   }
 
-  json.foreach(j => Files.write(new File(s"target/export/$channelId.json").toPath, j.spaces2.getBytes(StandardCharsets.UTF_8)))
+  json.foreach(j => Files.write(new File(exportDir, s"$channelId.json").toPath, j.spaces2.getBytes(StandardCharsets.UTF_8)))
 
   client.dispatcher().executorService().shutdown()
 }
