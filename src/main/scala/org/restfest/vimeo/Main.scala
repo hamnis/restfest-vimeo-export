@@ -94,6 +94,7 @@ object Main extends App {
         "year"        := year,
         "speaker"     := speaker,
         "kind"        := kind,
+        "title"       := v.title,
         "description" := v.description,
         "embed"       := v.embed,
         "href"        := v.href,
