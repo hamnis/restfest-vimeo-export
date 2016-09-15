@@ -28,7 +28,7 @@ object Main extends App {
 
 
   val clientInfo = loadClientInfo()
-  val channelId = args(0)
+  val channelId = args(0).trim
 
   val client = new OkHttpClient.Builder().build()
 
@@ -62,20 +62,22 @@ object Main extends App {
   }
 
   def getChannel(token: AccessToken, channelId: String): Vector[VimeoVideo] = {
-    def meh(vimeoRequest: VimeoRequest, vb: Vector[VimeoVideo]): Vector[VimeoVideo] = {
+    println(channelId)
+    def recur(vimeoRequest: VimeoRequest, videos: Vector[VimeoVideo]): Vector[VimeoVideo] = {
       (for {
         page <- requestAsSync[ChannelResponse](vimeoRequest)
       } yield {
-        vb ++ page.data.next.map(uri => meh(VimeoRequest(token, uri), page.data.data)).getOrElse(page.data.data)
-      }).getOrElse(vb)
+        page.data.next.map(uri => recur(VimeoRequest(token, uri), videos ++ page.data.data)).getOrElse(videos ++ page.data.data)
+      }).getOrElse(videos)
     }
-    meh(ChannelRequest(channelId).toRequest(token), Vector.empty)
+    recur(ChannelRequest(channelId).toRequest(token), Vector.empty)
   }
 
 
   val exportDir = new File("export")
   if (!exportDir.exists() && !exportDir.mkdirs()) {
-    sys.error("Unable to create export directory")
+    println("Unable to create export directory")
+    sys.exit(1)
   }
 
   val flow = for {
@@ -103,7 +105,7 @@ object Main extends App {
     })
   }
 
-  json.foreach(j => Files.write(new File(exportDir, s"$channelId.json").toPath, j.spaces2.getBytes(StandardCharsets.UTF_8)))
+  json.fold(println, j => Files.write(new File(exportDir, s"$channelId.json").toPath, j.spaces2.getBytes(StandardCharsets.UTF_8)))
 
   client.dispatcher().executorService().shutdown()
 }

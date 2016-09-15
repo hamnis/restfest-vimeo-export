@@ -55,19 +55,18 @@ object VimeoVideo {
   implicit val VVDecoder = DecodeJson{ c =>
     for {
       name <- (c --\ "name").as[String]
-      description <- (c --\ "description").as[String]
+      description <- (c --\ "description").as[Option[String]]
       href <- (c --\ "link").as[URI]
       embed <- (c --\ "embed" --\ "html").as[String]
       duration <- (c --\ "duration").as[Int]
       width <- (c --\ "width").as[Int]
       height <- (c --\ "height").as[Int]
       pictures <- (c --\ "pictures" --\ "sizes").as[List[Image]]
-      //comments <- (c --\ "metadata" --\ "connections" --\ "comments" --\ "uri").as[String]
     } yield {
       val meta = Metadata(duration, width, height)
       VimeoVideo(
         title = name,
-        description = description,
+        description = description.getOrElse(""),
         href = href,
         embed = embed,
         images = pictures,

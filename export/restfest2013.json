@@ -1,0 +1,921 @@
+{
+  "videos" : [
+    {
+      "speaker" : "Brian Sletten",
+      "description" : "\"REST is Just the Beginning\" (Keynote)\n\nDeciding to build systems with REST isn't an endpoint. It isn't even really a goal. It is means to an end and a doorway to resource-oriented thinking. Hypermedia and Uniform Interfaces give us loosely-coupled and predictable systems but push the complexity of data integration to the client. The economic cost of integrating multiple sources remains high. Thin resource abstractions end at the HTTP boundary.\n\nWhat are some patterns that emerge from thinking in resources? How can we reduce the economic cost of integration? What would a resource-oriented computing environment look like? This talk will be a quick journey through some next level thinking about REST, the Semantic Web, Linked Data and a resource-oriented software platform.\n\nBrian Sletten is a liberal arts-educated software engineer with a focus on forward-leaning technologies. His experience has spanned many industries including retail, banking, online games, defense, finance, hospitality and health care. He has a B.S. in Computer Science from the College of William and Mary and lives in Auburn, CA. He focuses on web architecture, resource-oriented computing, social networking, the Semantic Web, data science, 3D graphics, visualization, scalable systems, security consulting and other technologies of the late 20th and early 21st Centuries. He is also a rabid reader, devoted foodie and has excellent taste in music. If pressed, he might tell you about his International Pop Recording career.",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/81396582?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"468\" frameborder=\"0\" title=\"REST Fest 2013 \\ Brian Sletten\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 6717,
+        "width" : 640,
+        "height" : 468
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2013 \\ Brian Sletten",
+      "href" : "https://vimeo.com/restfest/restfest2013keynote",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/457638231_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638231_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638231_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638231_640x468.jpg?r=pad",
+          "width" : 640,
+          "height" : 468
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638231_960x702.jpg?r=pad",
+          "width" : 960,
+          "height" : 702
+        }
+      ]
+    },
+    {
+      "speaker" : "Zdenek Nemec",
+      "description" : "\"It's the Client, Silly\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/77316053?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Zdenek Nemec \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 350,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Zdenek Nemec \\ FiveInFive",
+      "href" : "https://vimeo.com/77316053",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/452561291_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452561291_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452561291_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452561291_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452561291_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Benjamin Young",
+      "description" : "",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/77316052?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Benjamin Young \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 672,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Benjamin Young \\ FiveInFive",
+      "href" : "https://vimeo.com/77316052",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/452575889_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452575889_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452575889_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452575889_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452575889_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Bianca Gandolfo",
+      "description" : "\"Hack Reactor\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/77316051?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Bianca Gandolfo \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 478,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Bianca Gandolfo \\ FiveInFive",
+      "href" : "https://vimeo.com/77316051",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/452571718_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452571718_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452571718_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452571718_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452571718_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Ben Longden",
+      "description" : "\"Zoom\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/77175962?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"352\" frameborder=\"0\" title=\"REST Fest 2013 \\ Ben Longden \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 355,
+        "width" : 640,
+        "height" : 352
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Ben Longden \\ FiveInFive",
+      "href" : "https://vimeo.com/77175962",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/452384243_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452384243_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452384243_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452384243_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452384243_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Noah Fontes",
+      "description" : "",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/77063203?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"352\" frameborder=\"0\" title=\"REST Fest 2013 \\ Noah Fontes \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 380,
+        "width" : 640,
+        "height" : 352
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Noah Fontes \\ FiveInFive",
+      "href" : "https://vimeo.com/77063203",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/452179976_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452179976_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452179976_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452179976_640x352.jpg?r=pad",
+          "width" : 640,
+          "height" : 352
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/452179976_960x528.jpg?r=pad",
+          "width" : 960,
+          "height" : 528
+        }
+      ]
+    },
+    {
+      "speaker" : "Eric Oestrich",
+      "description" : "\"RAD Example\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75525216?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"468\" frameborder=\"0\" title=\"REST Fest 2013 \\ Eric Oestrich \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 116,
+        "width" : 640,
+        "height" : 468
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Eric Oestrich \\ FiveInFive",
+      "href" : "https://vimeo.com/75525216",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/450117107_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450117107_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450117107_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450117107_640x469.jpg?r=pad",
+          "width" : 640,
+          "height" : 469
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450117107_960x704.jpg?r=pad",
+          "width" : 960,
+          "height" : 704
+        }
+      ]
+    },
+    {
+      "speaker" : "James Morgan",
+      "description" : "\"What will they think of your API in 5 years?\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75407072?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ James Morgan \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 410,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ James Morgan \\ FiveInFive",
+      "href" : "https://vimeo.com/75407072",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/450008239_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450008239_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450008239_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450008239_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/450008239_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Luke Stokes",
+      "description" : "\"Hypermedia API Docs: Are we doing it wrong?\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75256658?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Luke Stokes \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 294,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Luke Stokes \\ FiveInFive",
+      "href" : "https://vimeo.com/75256658",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449783047_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449783047_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449783047_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449783047_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449783047_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Mark Foster",
+      "description" : "\"In Pursuit of Liquid ROA\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75220210?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Mark Foster \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 501,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Mark Foster \\ FiveInFive",
+      "href" : "https://vimeo.com/75220210",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449765495_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449765495_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449765495_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449765495_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449765495_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Matt Brown",
+      "description" : "\"Change Is Hard\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75180772?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Matt Brown \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 286,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Matt Brown \\ FiveInFive",
+      "href" : "https://vimeo.com/75180772",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449715735_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449715735_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449715735_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449715735_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449715735_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Jake Levitt",
+      "description" : "\"API Design Anecdotes\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75171337?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Jake Levitt \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 288,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Jake Levitt \\ FiveInFive",
+      "href" : "https://vimeo.com/75171337",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449671776_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449671776_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449671776_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449671776_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449671776_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Forrest Galloway",
+      "description" : "\"Is REST Good For Your Health?\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75142088?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Forrest Galloway \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 601,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Forrest Galloway \\ FiveInFive",
+      "href" : "https://vimeo.com/75142088",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449650425_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449650425_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449650425_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449650425_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449650425_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Jason Rudolph",
+      "description" : "\"Beta Like You Mean It\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75106817?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Jason Rudolph \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 392,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Jason Rudolph \\ FiveInFive",
+      "href" : "https://vimeo.com/75106817",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449592692_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449592692_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449592692_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449592692_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449592692_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Cameron Bytheway",
+      "description" : "\"The Art of Trade-offs\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75106816?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Cameron Bytheway \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 393,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Cameron Bytheway \\ FiveInFive",
+      "href" : "https://vimeo.com/75106816",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449591271_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449591271_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449591271_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449591271_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449591271_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "This talk covers the Application-Level Profile Semantics or ALPS (2013) IDL format. \n\nALPS is designed to describe problem domains in ways that allow both client and server to \"understand\" and \"code-for\" all the possible transitions and data elements without having to constrain a server to a single workflow or implementation. ALPS is both protocol- and media type-agnostic; you can use the same IDL document to implement the solution using HTML for HTTP and Siren for WS. Servers are free to create their own solutions within the problem domain with a high degree of confidence and any client that also understands the same ALPS description will be able to successfully interact with that server - even if they have never \"met\" each other before.\n\nIs this possible? Does it solve a real problem? Let's find out!",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75106815?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Mike Amundsen\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2017,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2013 \\ Mike Amundsen",
+      "href" : "https://vimeo.com/75106815",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449594993_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449594993_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449594993_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449594993_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449594993_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Mercedes Coyle",
+      "description" : "\"Developing an Elasticsearch Client\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75104679?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Mercedes Coyle \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 382,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Mercedes Coyle \\ FiveInFive",
+      "href" : "https://vimeo.com/75104679",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449586846_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449586846_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449586846_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449586846_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449586846_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Manoj Agarwal",
+      "description" : "\"Overview of the .NET HttpClient Class\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75094803?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"772\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Manoj Agarwal \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 474,
+        "width" : 772,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Manoj Agarwal \\ FiveInFive",
+      "href" : "https://vimeo.com/75094803",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449581053_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449581053_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449581053_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449581053_640x353.jpg?r=pad",
+          "width" : 640,
+          "height" : 353
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449581053_960x530.jpg?r=pad",
+          "width" : 960,
+          "height" : 530
+        }
+      ]
+    },
+    {
+      "speaker" : "Ken Anderson",
+      "description" : "\"Management APIs\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75091092?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"774\" height=\"426\" frameborder=\"0\" title=\"REST Fest 2013 \\ Ken Anderson \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 499,
+        "width" : 774,
+        "height" : 426
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Ken Anderson \\ FiveInFive",
+      "href" : "https://vimeo.com/75091092",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449574637_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449574637_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449574637_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449574637_640x352.jpg?r=pad",
+          "width" : 640,
+          "height" : 352
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449574637_960x529.jpg?r=pad",
+          "width" : 960,
+          "height" : 529
+        }
+      ]
+    },
+    {
+      "speaker" : "Larry Staton Jr.",
+      "description" : "\"Zooming Out\"",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75073292?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2013 \\ Larry Staton Jr. \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 450,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Larry Staton Jr. \\ FiveInFive",
+      "href" : "https://vimeo.com/75073292",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449565494_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Tom Brooke",
+      "description" : "SSEC to REST \\ Very Early Computer History to REST",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/75071900?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2013 \\ Tom Brooke \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 471,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2013 \\ Tom Brooke \\ FiveInFive",
+      "href" : "https://vimeo.com/75071900",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/449552001_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Promo",
+      "description" : "REST Fest 2013\n19-21 September 2013\nGreenville SC USA\nhttp://restfest.org",
+      "year" : "REST Fest 2013",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/64073172?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2013 \\ Promo\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 161,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2013 \\ Promo",
+      "href" : "https://vimeo.com/restfest/2013promo",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/434813167_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    }
+  ]
+}

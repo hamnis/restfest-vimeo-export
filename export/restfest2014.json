@@ -1,0 +1,2212 @@
+{
+  "videos" : [
+    {
+      "speaker" : "Benjamin Young",
+      "description" : "Five In Five Talk\n\"X-tend: HTTP of Future Past\"\nBenjamin Young\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/142185812?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Benjamin Young \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1098,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Benjamin Young \\ FiveinFive",
+      "href" : "https://vimeo.com/142185812",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/539405494_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jason Harmon",
+      "description" : "Five In Five Talk \n\"Scaling API Design\"\nJason Harmon\n27 SEPTEMBER 2014 \n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/113012571?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Jason Harmon \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 701,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Jason Harmon \\ FiveInFive",
+      "href" : "https://vimeo.com/113012571",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194715_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Francois Boudreault",
+      "description" : "Five In Five Talk\nFrancois Boudreault\n27 SEPTEMBER 2014 \n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/113012570?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Francois Boudreault \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 660,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Francois Boudreault \\ FiveInFive",
+      "href" : "https://vimeo.com/113012570",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498194845_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Court Brown",
+      "description" : "Five In Five Talk \n\"What are the biggest pitfalls of REST?\"\nCourt Brown\n27 SEPTEMBER 2014 \n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/113012569?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Court Brown \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 973,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Court Brown \\ FiveInFive",
+      "href" : "https://vimeo.com/113012569",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/498196036_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "David Heath",
+      "description" : "Five In Five Talk\n\"Scalability\"\nDavid Heath\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/112488381?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ David Heath \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 816,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ David Heath \\ FiveInFive",
+      "href" : "https://vimeo.com/112488381",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497486535_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mehdi Medjaou",
+      "description" : "Five In Five Talk\n\"Decentralize All the Things\"\nMehdi Medjaou\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/112488380?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Mehdi Medjaou \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 549,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Mehdi Medjaou \\ FiveInFive",
+      "href" : "https://vimeo.com/112488380",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497483726_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Ted Epstein",
+      "description" : "Ted Epstein\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/112488379?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Ted Epstein\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1497,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Ted Epstein",
+      "href" : "https://vimeo.com/112488379",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497491699_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Rob Zazueta",
+      "description" : "Rob Zazueta\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/112132658?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Rob Zazueta\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1739,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Rob Zazueta",
+      "href" : "https://vimeo.com/112132658",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000974_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen (Stack Day)",
+      "description" : "Mike Amundsen\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/112132657?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Mike Amundsen (Stack Day)\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1295,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Mike Amundsen (Stack Day)",
+      "href" : "https://vimeo.com/112132657",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/497000151_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Larry Staton, Jr.",
+      "description" : "\"A Tale of Two Teams\"\nLarry Staton, Jr.\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/111351050?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Larry Staton, Jr.\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1738,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Larry Staton, Jr.",
+      "href" : "https://vimeo.com/111351050",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495949143_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Sean Cribbs",
+      "description" : "Five In Five Talk\n\"Niggling Conneg\"\nSean Cribbs\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/111341843?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Sean Cribbs \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 782,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Sean Cribbs \\ FiveInFive",
+      "href" : "https://vimeo.com/111341843",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495929490_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Lukas Linhart",
+      "description" : "Five In Five Talk\n\"MIA\"\nLukas Linhart\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/111341842?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Lukas Linhart \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 392,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2014 \\ Lukas Linhart \\ FiveInFive",
+      "href" : "https://vimeo.com/111341842",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/495925933_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Francois Collins",
+      "description" : "Five In Five Talk\n\"Music vs. IT\"\nFrancois Collins\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/110475997?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Francois Collins \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 508,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Francois Collins \\ FiveinFive",
+      "href" : "https://vimeo.com/110475997",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/494756874_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Adam Magaluk",
+      "description" : "Five In Five Talk\n\"Electrons to APIs: Hypermedia To the Rescue\"\nAdam Magaluk\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109818318?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Adam Magaluk \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 185,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Adam Magaluk \\ FiveinFive",
+      "href" : "https://vimeo.com/109818318",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871649_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Ted Epstein",
+      "description" : "Five In Five Talk\n\"D Factor: How strong is your data contract?\"\nTed Epstein\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109818317?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Ted Epstein \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 645,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Ted Epstein \\ FiveinFive",
+      "href" : "https://vimeo.com/109818317",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493871235_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Erik Mogensen",
+      "description" : "\"Statecharts in User Interfaces: Warding Off Complexity\"\nErik Mogensen\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109808288?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Erik Mogensen\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2681,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Erik Mogensen",
+      "href" : "https://vimeo.com/109808288",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/493866508_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Matt Dobson",
+      "description" : "\"Hypermedia for Devices\"\nMatt Dobson\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109015910?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Matt Dobson\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 758,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Matt Dobson",
+      "href" : "https://vimeo.com/109015910",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904243_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Lorinda Brandon",
+      "description" : "\"The Geek Girl Imperative or 'I thought there were going to be girls here.'\"\nLorinda Brandon\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109015909?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Lorinda Brandon\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1323,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Lorinda Brandon",
+      "href" : "https://vimeo.com/109015909",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492904418_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Kevin Swiber",
+      "description" : "\"Reactive Hypermedia\"\nKevin Swiber\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/109006139?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Kevin Swiber\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1827,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Kevin Swiber",
+      "href" : "https://vimeo.com/109006139",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492868029_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"Runscope: Continuous Testing and Monitoring of Hypermedia APIs\"\nDarrel Miller\n26 SEPTEMBER 2014\n\nhttps://www.runscope.com\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108965400?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Darrel Miller\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 943,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Darrel Miller",
+      "href" : "https://vimeo.com/108965400",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492814735_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"Creating APIs for the Future\"\nMike Amudsen\n27 SEPTEMBER 2014\n\nhttp://amundsen.com/\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108929000?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Mike Amundsen\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1887,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Mike Amundsen",
+      "href" : "https://vimeo.com/108929000",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492771117_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Sean Cribbs",
+      "description" : "\"HTTP: The Good Parts\" (Keynote)\n\nREST demands we think about resources, representations, and rich interactions; however, it's easy to forget the substrate upon which our beautiful hypermedia APIs \"rest.\" HTTP has lots of interesting and powerful ways to enhance interaction and efficiency that most applications leave untapped because they focus so much on the act of processing a request, rather than the properties of the resource being requested. Let's look more closely at those HTTP features and then see how you can tap into them more declaratively with Webmachine.\n\nhttp://seancribbs.com/\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108913764?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Sean Cribbs\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 3857,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Sean Cribbs",
+      "href" : "https://vimeo.com/restfest/keynote2014",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/492761691_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Shelby Switzer",
+      "description" : "Five In Five Talk\n\"Language Lesson (And Rant)\"\nShelby Switzer\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108178802?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Shelby Switzer \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 475,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Shelby Switzer \\ FiveinFive",
+      "href" : "https://vimeo.com/108178802",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810625_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Michael Ottoson",
+      "description" : "Five In Five Talk\nMichael Ottoson\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108178801?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Michael Ottoson \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 408,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Michael Ottoson \\ FiveinFive",
+      "href" : "https://vimeo.com/108178801",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491810448_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Patrick Mueller",
+      "description" : "Five In Five Talk\n\"Server-Sent Events\"\nPatrick Mueller\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108150011?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Patrick Mueller \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 619,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Patrick Mueller \\ FiveinFive",
+      "href" : "https://vimeo.com/108150011",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491786244_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Phillippe Marstean",
+      "description" : "Five In Five Talk\n\"RESTful Search API\"\nPhillippe Marstean\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108150010?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Phillippe Marstean \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 531,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Phillippe Marstean \\ FiveinFive",
+      "href" : "https://vimeo.com/108150010",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491793985_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Matthew Dobson",
+      "description" : "Five In Five Talk\n\"Documenting Hypemedia and State Machines\"\nMatthew Dobson\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108143305?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Matthew Dobson \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 170,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Matthew Dobson \\ FiveinFive",
+      "href" : "https://vimeo.com/108143305",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491760065_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Todd Grooms",
+      "description" : "Five In Five Talk\n\"Siren Kit for iOS\"\nTodd Grooms\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108132548?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Todd Grooms \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 314,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Todd Grooms \\ FiveinFive",
+      "href" : "https://vimeo.com/108132548",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491745116_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Ryan McAllen",
+      "description" : "Five In Five Talk\n\"Fight To Win: Know Your Enemy\"\nRyan McAllen\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108124837?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Ryan McAllen \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 704,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Ryan McAllen \\ FiveinFive",
+      "href" : "https://vimeo.com/108124837",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491737313_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "John Wheeler",
+      "description" : "Five In Five Talk\n\"Data for the REST of Us\"\nJohn Wheeler\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108120063?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ John Wheeler \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 570,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ John Wheeler \\ FiveinFive",
+      "href" : "https://vimeo.com/108120063",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491729984_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Cameron Esdaile",
+      "description" : "Five In Five Talk\n\"Retrofitting an Existing Platform\"\nCameron Esdaile\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108076471?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Cameron Esdaile \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 240,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Cameron Esdaile \\ FiveinFive",
+      "href" : "https://vimeo.com/108076471",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491689202_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mark Foster",
+      "description" : "Five In Five Talk\n\"API Design Constraints\"\nMark Foster\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108076470?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Mark Foster \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 486,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Mark Foster \\ FiveinFive",
+      "href" : "https://vimeo.com/108076470",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491713919_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Ben Longden",
+      "description" : "Five In Five Talk\n\"vnd.error\"\nBen Longden\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108076469?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Ben Longden \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 444,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Ben Longden \\ FiveinFive",
+      "href" : "https://vimeo.com/108076469",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491691083_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Rob Zazueta",
+      "description" : "Five In Five Talk\n\"Descriptor Languages for Content Negotiation\"\nRob Zazueta\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108076468?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Rob Zazueta \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 581,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Rob Zazueta \\ FiveinFive",
+      "href" : "https://vimeo.com/108076468",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491714445_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Eric Oestrich",
+      "description" : "Five In Five Talk\n\"RSpec API Doc Generator\"\nEric Oestrich\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/108051197?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Eric Oestrich \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 446,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Eric Oestrich \\ FiveinFive",
+      "href" : "https://vimeo.com/108051197",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491662349_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Joel Clermont",
+      "description" : "Five In Five Talk\n\"IPFS - The Permanent Web\"\nJoel Clermont\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107581073?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Joel Clermont \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 321,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Joel Clermont \\ FiveinFive",
+      "href" : "https://vimeo.com/107581073",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491023400_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Manoj Agarwal",
+      "description" : "Five In Five Talk\n\"Enabling CORS (Cross-Origin Resource Sharing) for a REST API\"\nManoj Agarwai\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107545661?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Manoj Agarwal \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 366,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Manoj Agarwal \\ FiveinFive",
+      "href" : "https://vimeo.com/107545661",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/491016882_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Dane King",
+      "description" : "Five In Five Talk\n\"Putting the Design back into TDD\"\nDane King\n27 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107530928?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Dane King \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 282,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Dane King \\ FiveinFive",
+      "href" : "https://vimeo.com/107530928",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490967123_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Todd Fredrich",
+      "description" : "Five In Five Talk\n\"HyperExpress\"\nTodd Fredrich\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107347225?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Todd Fredrich \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 440,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Todd Fredrich \\ FiveinFive",
+      "href" : "https://vimeo.com/107347225",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490735920_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Steve Brownlee",
+      "description" : "Five In Five Talk\n\"Making Hypermedia Successful with Developer Tooling\"\nSteve Brownlee\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107343533?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest \\ Steve Brownlee \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 389,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest \\ Steve Brownlee \\ FiveinFive",
+      "href" : "https://vimeo.com/107343533",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490726639_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Alan Laidlaw",
+      "description" : "Five In Five Talk\n\"Why We Don't Get Hypermedia\"\nAlan Laidlaw\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107334507?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Alan Laidlaw \\ FiveinFive 5in5\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 340,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive 5in5",
+      "title" : "REST Fest 2014 \\ Alan Laidlaw \\ FiveinFive 5in5",
+      "href" : "https://vimeo.com/107334507",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490717732_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Josh Wingstrom",
+      "description" : "Five In Five Talk\n\"Hypermedia Clients and Protocols\"\nJosh Wingstrom\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107330979?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Josh Wingstrom \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 345,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Josh Wingstrom \\ FiveinFive",
+      "href" : "https://vimeo.com/107330979",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490712288_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Tom Brooke",
+      "description" : "Five In Five Talk\n\"Data Privacy and Consent Receipt\"\nTom Brooke\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107325008?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Tom Brooke \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 373,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Tom Brooke \\ FiveinFive",
+      "href" : "https://vimeo.com/107325008",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490704258_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Dave Nolan",
+      "description" : "Five In Five Talk\n\"Falling into the Pit of Success\"\nDave Nolan\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107310633?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Dave Nolan \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 377,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Dave Nolan \\ FiveinFive",
+      "href" : "https://vimeo.com/107310633",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691985_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Lorinda Brandon",
+      "description" : "Five In Five Talk\n\"The Evolution of API Strategy: Managing Change Without Disruption\"\nLorinda Brandon\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107310632?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Lorinda Brandon \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 434,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Lorinda Brandon \\ FiveinFive",
+      "href" : "https://vimeo.com/107310632",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490691112_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Luke Stokes",
+      "description" : "Five In Five Talk\n\"Where to Hide the Complexity?\"\nLuke Stokes\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107310631?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Luke Stokes \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 298,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Luke Stokes \\ FiveinFive",
+      "href" : "https://vimeo.com/107310631",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490689640_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Larry Staton Jr.",
+      "description" : "Five In Five Talk\n\"Hypermedia with Transit\"\nLarry Staton Jr.\n26 SEPTEMBER 2014\n\nVIDEO SPONSORED BY LAYER 7 TECHNOLOGIES: www.layer7tech.com",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/107304324?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Larry Staton Jr. \\ FiveinFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 336,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveinFive",
+      "title" : "REST Fest 2014 \\ Larry Staton Jr. \\ FiveinFive",
+      "href" : "https://vimeo.com/107304324",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/490679843_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Promo",
+      "description" : "REST Fest 2014\n25-27 September 2014\nGreenville SC USA\nrestfest.org",
+      "year" : "REST Fest 2014",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/81777120?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2014 \\ Promo\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 147,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2014 \\ Promo",
+      "href" : "https://vimeo.com/restfest/2014",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457965012_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    }
+  ]
+}

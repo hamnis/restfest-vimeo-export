@@ -1,0 +1,1465 @@
+{
+  "videos" : [
+    {
+      "speaker" : "Stuart Charlton",
+      "description" : "TITLE: Linking Data and Actions on the Web\n\nPRESENTER: Stu Charlton is an independent consultant in the areas of RESTful systems integration, cloud computing, and agile development. He maintains an occasionally updated blog on REST and the Cloud, called \"Stu Says Stuff.\" Formerly he was the General Manager of IT Infrastructure & Operations at Canadian Pacific, the CTO of Elastra, and an Enterprise Architect at BEA Systems. Currently Stu is applying REST to legacy systems modernization and integration efforts in the railway industry at Canadian Pacific.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/50215125?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Stuart Charlton\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 3839,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Stuart Charlton",
+      "href" : "https://vimeo.com/restfest/rf2012charlton",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/346093947_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/346093947_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/346093947_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/346093947_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/346093947_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Benjamin Young",
+      "description" : "“HIPSTER”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614573?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Benjamin Young \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 464,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Benjamin Young \\ FiveInFive",
+      "href" : "https://vimeo.com/49614573",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342379319_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342379319_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342379319_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342379319_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342379319_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Kev Burns",
+      "description" : "“ESI and LCI in Varnish”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614567?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Kev Burns \\ FiveInFive II\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 734,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive II",
+      "title" : "REST Fest 2012 \\ Kev Burns \\ FiveInFive II",
+      "href" : "https://vimeo.com/49614567",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342412249_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342412249_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342412249_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342412249_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342412249_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Darryl Miller",
+      "description" : "“URI Templates”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614564?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Darryl Miller \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 866,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Darryl Miller \\ FiveInFive",
+      "href" : "https://vimeo.com/49614564",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342406331_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342406331_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342406331_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342406331_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342406331_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Evgeny Popov",
+      "description" : "“Make OData-Based API More Palatable for Your Developers”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614562?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Evgeny Popov \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 563,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Evgeny Popov \\ FiveInFive",
+      "href" : "https://vimeo.com/49614562",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342520040_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342520040_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342520040_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342520040_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342520040_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Vlad Vinogradsky",
+      "description" : "“If OData is the solution, what is the problem?”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614559?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Vlad Vinogradsky \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1183,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Vlad Vinogradsky \\ FiveInFive",
+      "href" : "https://vimeo.com/49614559",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342480745_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342480745_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342480745_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342480745_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342480745_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "John Connolly",
+      "description" : "“Making the Commitment to Hypermedia”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614136?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ John Connolly \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 662,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ John Connolly \\ FiveInFive",
+      "href" : "https://vimeo.com/49614136",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342391059_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342391059_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342391059_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342391059_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342391059_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Drewz Lau",
+      "description" : "“Giving Some Backbone to Hypermedia Clients”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614131?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Drewz Lau \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 656,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Drewz Lau \\ FiveInFive",
+      "href" : "https://vimeo.com/49614131",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342368356_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342368356_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342368356_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342368356_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342368356_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Ryan McAllen",
+      "description" : "“How to be a better Condescender-er.”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614130?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Ryan McAllen \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 758,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Ryan McAllen \\ FiveInFive",
+      "href" : "https://vimeo.com/49614130",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342376299_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342376299_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342376299_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342376299_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342376299_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Todd Fredrich",
+      "description" : "“Rappin’ Responses”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614129?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Todd Fredrich \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 612,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Todd Fredrich \\ FiveInFive",
+      "href" : "https://vimeo.com/49614129",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342358874_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342358874_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342358874_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342358874_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342358874_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Eric Girard",
+      "description" : "",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49614128?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Eric Girard \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 849,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Eric Girard \\ FiveInFive",
+      "href" : "https://vimeo.com/49614128",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342380291_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342380291_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342380291_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342380291_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342380291_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Joe Kaziukénas",
+      "description" : "“RESTful Open Data”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49613742?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Joe Kaziuk&eacute;nas \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 444,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Joe Kaziukénas \\ FiveInFive",
+      "href" : "https://vimeo.com/49613742",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342356580_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342356580_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342356580_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Larry Staton",
+      "description" : "“PUT/time”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49613740?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Larry Staton \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 228,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Larry Staton \\ FiveInFive",
+      "href" : "https://vimeo.com/49613740",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342336741_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342336741_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342336741_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342336741_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342336741_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Keith Casey",
+      "description" : "“Fun with Options”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49613738?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Keith Casey \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 475,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Keith Casey \\ FiveInFive",
+      "href" : "https://vimeo.com/49613738",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342349894_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342349894_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342349894_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342349894_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342349894_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Carol Nichols",
+      "description" : "“Adding Hypermedia Controls to an Existing Site”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49613736?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Carol Nichols \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 345,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Carol Nichols \\ FiveInFive",
+      "href" : "https://vimeo.com/49613736",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342345817_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342345817_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342345817_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342345817_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342345817_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Ronnie Mitra",
+      "description" : "“Control vs. Usability”",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49613733?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Ronnie Mitra \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 496,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Ronnie Mitra \\ FiveInFive",
+      "href" : "https://vimeo.com/49613733",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342344811_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342344811_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342344811_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Sam Ramji",
+      "description" : "TITLE: RESTful API Design: How many versions?\n\nPRESENTER: Sam Ramji is a software strategist and open source pragmatist. He works at Apigee as the head of strategy, and volunteers at Outercurve Foundation (an open source foundation sponsored by Microsoft and AOL) and the Open Cloud Initiative. Sam grew up in Oakland, California and started programming at age 9 when the local public schools put in a set of Commodore Pet 16K computers. He stopped writing real code in 2000, but for some reason can't get away from software…and has been working in the industry since 1994. He’s a true, cognitive science geek.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49609651?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Sam Ramji\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2121,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Sam Ramji",
+      "href" : "https://vimeo.com/restfest/rf2012samramji",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342470826_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342470826_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342470826_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342470826_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342470826_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Pat Cappelaere II",
+      "description" : "TITLE: RESTful Patterns for [OGC] Enterprise Services\n\nDESCRIPTION: Imagine a SensorWeb with millions of service of various types that could be accessed by humans or automatically by machines over the web…sensor gauges in Namibia connected to forecasting models in the US and earth-orbiting satellites ready to image the upcoming flood on-demand. What architectural patterns may be required of these services to meet the challenge? Based on many observed best practices, which ones may need to be instituted for seamless interoperability over time? The Open Geospatial Consortium has defined a multitude of standardized services. Over the last 25 years, those standards have evolved from a REST/RPC style to SOAP and a newer binding style is now being considered. This presentation will focus on some of the contemplated best practices that could be used to define a policy for a REST/Hypermedia API to be used at this enterprise level.\n\nPRESENTER: Pat Cappelaere is an independant Software Architect. His current work involves the development of the NASA SensorWeb, which provides seamless access to satellites and automatically generated products. Pat is also chairing the Open Geospatial Consortium \"RESTFul Services Policy\" Standards Working Group. He has been involved with many open source projects including Community Mapbuilder, Rools, and now RIP.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49609650?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Pat Cappelaere II\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2263,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Pat Cappelaere II",
+      "href" : "https://vimeo.com/restfest/rf2012patcappelaere2",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342322178_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342322178_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342322178_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342322178_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342322178_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Leonard Richardson",
+      "description" : "TITLE: How To Follow Instructions\n\nDESCRIPTION: How do web service providers advertise their capabilities? By what alchemy do clients turn vague instructions from the server into specific HTTP requests? A talk about hypermedia and code on demand, as well as the not-so-great techniques web service designers (myself included) have been using instead of hypermedia and code on demand.\n\nPRESENTER: Leonard is the co-author of “RESTful Web Services” and the developer of Beautiful Soup. These days, he mostly writes science fiction.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49609649?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Leonard Richardson\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1755,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Leonard Richardson",
+      "href" : "https://vimeo.com/restfest/rf2012leonardrichardson",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342319126_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342319126_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342319126_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342319126_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342319126_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Matt Bishop",
+      "description" : "TITLE: HATEOAS Your Cake and Eat It Too: Turning Complex Business Processes into an Easy-To-Use API\n\nDESCRIPTION: We set out to build a HATEOAS server that had all the bells and whistles, only to find, well, not many pre-existing bells and whistles. By necessity we had to build our own HATEOAS server and figure out how to turn our complex e-commerce process into an API that required little training to succeed with. This talk will cover that journey and give some insight as to how to do it yourself.\n\nPRESENTER: Matt Bishop is the Senior Product Architect at Elastic Path (EP). He and the dev team at EP have been busy for the last 18 months building out a Level 3 REST (HATEOAS) API for their high-end ecommerce system. Before that Matt was an Innovation Architect at SAP researching REST, trying to find a way to move SAP from SOAP to REST (failed) he also researched Comet and mobile applications. Before that was a stint working on mobile apps in the technical service industry (lots of mud, dust and toxic waste). Before that Matt worked at BEA on Weblogic Workshop 7 and 8 (Eclipse sucked back then too). Before that he developed software to print magazines and newspapers which is way more interesting that it sounds. There's a few other before-thats, including Atari Computers (not the games). Matt has been building Internet apps (hello Server-Side Applets!) since when people thought AOL was the Internet and the cool kids had shotgunned dialup.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49609648?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Matt Bishop\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2702,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Matt Bishop",
+      "href" : "https://vimeo.com/restfest/rf2012mattbishop",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/342409288_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342409288_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342409288_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342409288_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/342409288_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Kev Burns",
+      "description" : "TITLE: Diagnostics",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49505004?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Kev Burns \\ FiveInFive I\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 652,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive I",
+      "title" : "REST Fest 2012 \\ Kev Burns \\ FiveInFive I",
+      "href" : "https://vimeo.com/49505004",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341587198_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341587198_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341587198_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341587198_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341587198_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Ryan Szrama",
+      "description" : "TITLE: Just Getting Started: How I Chose My Media Type",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504885?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Ryan Szrama \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 930,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Ryan Szrama \\ FiveInFive",
+      "href" : "https://vimeo.com/49504885",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341586266_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341586266_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341586266_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341586266_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341586266_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Jag Padala",
+      "description" : "TITLE: Oracle",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504761?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"300\" frameborder=\"0\" title=\"REST Fest 2012 \\ Jag Padala \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 0,
+        "width" : 400,
+        "height" : 300
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Jag Padala \\ FiveInFive",
+      "href" : "https://vimeo.com/49504761",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341585404_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585404_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585404_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585404_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585404_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Luke Stokes",
+      "description" : "TITLE: Difficulties in Learning REST",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504760?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Luke Stokes \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 351,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Luke Stokes \\ FiveInFive",
+      "href" : "https://vimeo.com/49504760",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341585391_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585391_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585391_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585391_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341585391_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Steven Suing",
+      "description" : "TITLE: Hypermedia Design",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504451?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"300\" frameborder=\"0\" title=\"REST Fest 2012 \\ Steven Suing \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 0,
+        "width" : 400,
+        "height" : 300
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Steven Suing \\ FiveInFive",
+      "href" : "https://vimeo.com/49504451",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341584658_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584658_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584658_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584658_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584658_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Phil Harvey",
+      "description" : "TITLE: Wrestling with REST/Hypermedia",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504450?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Phil Harvey \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 702,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Phil Harvey \\ FiveInFive",
+      "href" : "https://vimeo.com/49504450",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341584304_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584304_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584304_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584304_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341584304_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Ben Longden",
+      "description" : "TITLE: Changing State",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504449?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"300\" frameborder=\"0\" title=\"REST Fest 2012 \\ Ben Longden \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 0,
+        "width" : 400,
+        "height" : 300
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Ben Longden \\ FiveInFive",
+      "href" : "https://vimeo.com/49504449",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341583898_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341583898_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341583898_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341583898_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341583898_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Addy Kapur",
+      "description" : "TITLE: How API Saved My Company",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504104?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Addy Kapur \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 267,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Addy Kapur \\ FiveInFive",
+      "href" : "https://vimeo.com/49504104",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341581812_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581812_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581812_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581812_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581812_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Eric Oestrich",
+      "description" : "TITLE:  cURLin' for Docs",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49504102?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Eric Oestrich \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 241,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Eric Oestrich \\ FiveInFive",
+      "href" : "https://vimeo.com/49504102",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341581816_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581816_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581816_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581816_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341581816_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Dan Abend",
+      "description" : "TITLE: Managing Your Twittersphere",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49503459?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Dan Abend \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 834,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Dan Abend \\ FiveInFive",
+      "href" : "https://vimeo.com/49503459",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341578847_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578847_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578847_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578847_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578847_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Kevin Swiber",
+      "description" : "TITLE: Adding Behavior to Web APIs",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49503458?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Kevin Swiber \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 459,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Kevin Swiber \\ FiveInFive",
+      "href" : "https://vimeo.com/49503458",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341578322_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578322_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578322_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578322_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341578322_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Joel Clermont",
+      "description" : "TITLE:  My Path to Hypermedia Enlightenment",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49503457?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Joel Clermont \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 303,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2012 \\ Joel Clermont \\ FiveInFive",
+      "href" : "https://vimeo.com/49503457",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341577412_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341577412_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341577412_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341577412_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341577412_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "TITLE: REST-like Wisdom from Celebrity Internet Memes\n\nDESCRIPTION: An entertaining tour of several wise epigrams and admonishments on REST, Hypermedia, and Web APIs delivered via celebrity Internet memes such as Inigo Montoya, Yoda, \"The Most Interesting Man in the World\", Boromir, Fry, and others. Although humorous, each character has something serious to tell us about the nature and challenges of services on the Web.\n\nPRESENTER: Mike Amundsen is Principal API Architect for Layer 7 Technologies. An internationally known author and lecturer, he travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects. His recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time. He has more than a dozen books to his credit. His most recent book is \"Building Hypermedia APIs with HTML5 and Node\" He also contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on \"cloud stack\" programming. When he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49503453?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Mike Amundsen\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2107,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Mike Amundsen",
+      "href" : "https://vimeo.com/restfest/rf2012mikeamundsen",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341579957_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341579957_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341579957_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341579957_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341579957_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Pat Cappelaere I",
+      "description" : "TITLE: User Stories and Acceptance Criteria for RESTful Services: RIP\n\nDESCRIPTION: In order to start the draft of a policy for RESTFul services, participants of this OGC Standards Working Group embarked on the development of RIP, a RESTful service acaluator that assesses and report on RESTful services against a continuously updated set of user stories and acceptance criteria. Many patterns are starting to emerge but there is more work to do especially in testing upcoming Hypermedia API's. RIP is certainly a great learning tool and provides a good insight in the evolution of RESTful services. It may be pointing to a set of best practices that could be used at the enterprise level.\n\nPRESENTER: Pat Cappelaere is an independant Software Architect. His current work involves the development of the NASA SensorWeb, which provides seamless access to satellites and automatically generated products. Pat is also chairing the Open Geospatial Consortium \"RESTFul Services Policy\" Standards Working Group. He has been involved with many open source projects including Community Mapbuilder, Rools, and now RIP.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49484939?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Pat Cappelaere I\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 3970,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Pat Cappelaere I",
+      "href" : "https://vimeo.com/restfest/rf2012patcappelaere1",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341456259_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341456259_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341456259_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341456259_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341456259_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "TITLE: 7 Rs of Hypermedia\n\nDESCRIPTION: This workshop is an exercise in exploring the practical uses of hypermedia; a valuable reference resource for anyone who wants to see real world hypermedia usage. Through his work, Miller has identified seven different scenarios where hypermedia can be used within distributed applications: Relations, Resources, Reference Data, Restriction, Re-Distribution, Reduction, and Reactive.\n\nPRESENTER: Darrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software. Darrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems. Darrel has been writing software professionally for 18 years. The last four years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications. He is a Connected Systems Developer Microsoft MVP and a member of the Microsoft Web API advisory board.",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/49484938?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2012 \\ Darrel Miller\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 5153,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Darrel Miller",
+      "href" : "https://vimeo.com/restfest/rf2012darrelmiller",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/341458206_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341458206_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341458206_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341458206_640x363.jpg?r=pad",
+          "width" : 640,
+          "height" : 363
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/341458206_960x545.jpg?r=pad",
+          "width" : 960,
+          "height" : 545
+        }
+      ]
+    },
+    {
+      "speaker" : "Promo",
+      "description" : "REST Fest 2012 happens 13-15 September 2012.\n\nMake plans now to attend!",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/38410483?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2012 \\ Promo\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 291,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Promo",
+      "href" : "https://vimeo.com/restfest/2012promo",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    }
+  ]
+}

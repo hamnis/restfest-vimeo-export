@@ -1,0 +1,2730 @@
+{
+  "videos" : [
+    {
+      "speaker" : "Promo",
+      "description" : "REST Fest 2012 happens 13-15 September 2012.\n\nMake plans now to attend!",
+      "year" : "REST Fest 2012",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/38410483?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2012 \\ Promo\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 291,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2012 \\ Promo",
+      "href" : "https://vimeo.com/restfest/2012promo",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/457638613_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "Keynote by Mike Amundsen\n19 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/29623379?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 2 of 2\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2976,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "2 of 2",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 2 of 2",
+      "href" : "https://vimeo.com/29623379",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/198523106_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198523106_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198523106_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "Keynote by Mike Amundsen\n19 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/29623070?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 1 of 2\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1576,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "1 of 2",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 1 of 2",
+      "href" : "https://vimeo.com/29623070",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198518777_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Kevin Burns",
+      "description" : "Kevin Burns\n20 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/29622595?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Kevin Burns\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1800,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2011 \\ Kevin Burns",
+      "href" : "https://vimeo.com/29622595",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/198515929_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Chris White",
+      "description" : "\"Kickstart Your Pet Project\"\n20 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28837873?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Chris White \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 735,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Chris White \\ FiveInFive",
+      "href" : "https://vimeo.com/28837873",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192705042_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Richard Hipp",
+      "description" : "\"SQL: Structured Query Language\"\n20 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28821934?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Richard Hipp\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1870,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2011 \\ Richard Hipp",
+      "href" : "https://vimeo.com/28821934",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/192580179_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192580179_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192580179_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Subbu Allamaraju",
+      "description" : "\"Measuring REST\"\n20 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28821485?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Subbu Allamaraju\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1741,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2011 \\ Subbu Allamaraju",
+      "href" : "https://vimeo.com/28821485",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/192567856_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192567856_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192567856_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Randall Tombaugh",
+      "description" : "\"The Web API Framework for .NET\"\n20 August 2011",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28819797?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Randall Tombaugh\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2086,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2011 \\ Randall Tombaugh",
+      "href" : "https://vimeo.com/28819797",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/192564409_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "John Dyer",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28510945?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ John Dyer \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 410,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ John Dyer \\ FiveInFive",
+      "href" : "https://vimeo.com/28510945",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190254217_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190254217_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190254217_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190254217_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190254217_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28510817?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 509,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ FiveInFive",
+      "href" : "https://vimeo.com/28510817",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190253345_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190253345_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190253345_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190253345_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190253345_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Jim Ciallella",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28510549?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jim Ciallella \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 715,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Jim Ciallella \\ FiveInFive",
+      "href" : "https://vimeo.com/28510549",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190252371_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190252371_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190252371_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Greg Jones",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28510208?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Greg Jones \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 572,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Greg Jones \\ FiveInFive",
+      "href" : "https://vimeo.com/28510208",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190249465_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190249465_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190249465_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190249465_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190249465_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28510071?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 708,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ FiveInFive",
+      "href" : "https://vimeo.com/28510071",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190248563_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190248563_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190248563_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Eric Giard",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28509932?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Eric Giard \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 667,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Eric Giard \\ FiveInFive",
+      "href" : "https://vimeo.com/28509932",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190247844_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190247844_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190247844_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190247844_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190247844_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Doug Cone",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28509518?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Doug Cone \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 625,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Doug Cone \\ FiveInFive",
+      "href" : "https://vimeo.com/28509518",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190244637_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190244637_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190244637_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190244637_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190244637_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Benjamin Young",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28509433?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Benjamin Young \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 496,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Benjamin Young \\ FiveInFive",
+      "href" : "https://vimeo.com/28509433",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190243383_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190243383_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190243383_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190243383_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190243383_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Ben Ramsey",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28509207?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Ben Ramsey \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 918,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Ben Ramsey \\ FiveInFive",
+      "href" : "https://vimeo.com/28509207",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190241912_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190241912_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190241912_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190241912_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190241912_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Kevin Dees",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28509096?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Kevin Dees \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 634,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Kevin Dees \\ FiveInFive",
+      "href" : "https://vimeo.com/28509096",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190240538_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190240538_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190240538_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190240538_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190240538_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Rick Harris",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28508582?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Rick Harris \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 883,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Rick Harris \\ FiveInFive",
+      "href" : "https://vimeo.com/28508582",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/190237656_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190237656_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190237656_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190237656_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/190237656_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Rakesh Godavari",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28202459?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Rakesh Godavari \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 596,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Rakesh Godavari \\ FiveInFive",
+      "href" : "https://vimeo.com/28202459",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187949856_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949856_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949856_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949856_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949856_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Keith Casey",
+      "description" : "",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28202330?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"REST Fest 2011 \\ Keith Casey \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 375,
+        "width" : 640,
+        "height" : 360
+      },
+      "kind" : "FiveInFive",
+      "title" : "REST Fest 2011 \\ Keith Casey \\ FiveInFive",
+      "href" : "https://vimeo.com/28202330",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187947720_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947720_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947720_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947720_640x357.jpg?r=pad",
+          "width" : 640,
+          "height" : 357
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947720_960x536.jpg?r=pad",
+          "width" : 960,
+          "height" : 536
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28202110?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 9 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 802,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "9 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 9 of 9",
+      "href" : "https://vimeo.com/28202110",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187949849_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28201903?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 8 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 848,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "8 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 8 of 9",
+      "href" : "https://vimeo.com/28201903",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187947057_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28201733?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 7 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 662,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "7 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 7 of 9",
+      "href" : "https://vimeo.com/28201733",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187946075_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187946075_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187946075_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28201355?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 5 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 587,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "5 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 5 of 9",
+      "href" : "https://vimeo.com/28201355",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187942480_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28201096?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 4 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 616,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "4 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 4 of 9",
+      "href" : "https://vimeo.com/28201096",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187939999_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939999_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939999_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28201006?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 3 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 615,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "3 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 3 of 9",
+      "href" : "https://vimeo.com/28201006",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187939213_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28200816?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 2 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 651,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "2 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 2 of 9",
+      "href" : "https://vimeo.com/28200816",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937638_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "\"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28200662?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ 1 of 9\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 652,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "1 of 9",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ 1 of 9",
+      "href" : "https://vimeo.com/28200662",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187937354_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen PREVIEW",
+      "description" : "PREVIEW: \"Link Relations: An Overview\"\n19 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.\n\n(Mike Amundsen interviewed by Benjamin Young.)",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/28200424?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen PREVIEW\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 536,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "feature",
+      "title" : "REST Fest 2011 \\ Mike Amundsen PREVIEW",
+      "href" : "https://vimeo.com/28200424",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/187934408_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27942428?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 7 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 684,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "7 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 7 of 7",
+      "href" : "https://vimeo.com/27942428",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185997993_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27942048?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 6 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 662,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "6 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 6 of 7",
+      "href" : "https://vimeo.com/27942048",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994858_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27941971?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 5 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 579,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "5 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 5 of 7",
+      "href" : "https://vimeo.com/27941971",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185994046_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27941778?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 4 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 541,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "4 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 4 of 7",
+      "href" : "https://vimeo.com/27941778",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992884_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27941664?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 3 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 578,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "3 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 3 of 7",
+      "href" : "https://vimeo.com/27941664",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992318_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Dr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27941602?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 2 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 649,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "2 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 2 of 7",
+      "href" : "https://vimeo.com/27941602",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185992093_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Jon Moore",
+      "description" : "Opening Keynote\n19 August 2011\n\nDr. Jon Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. \n\nHe guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27941543?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Jon Moore \\ 1 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 516,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "1 of 7",
+      "title" : "REST Fest 2011 \\ Jon Moore \\ 1 of 7",
+      "href" : "https://vimeo.com/27941543",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185991169_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Darrel Miller",
+      "description" : "PREVIEW: \"A Smorgasbord of HTTP Middleware\"\n19 August 2011\n\nDarrel Miller is CTO at Tavis Software. Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.\n\nDarrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.\n\nDarrel has been writing software professionally for 17 years. The last 3 years have been spent discovering the benefits of the REST. His particular focus is on the use of REST to develop non-browser based line-of-business applications.\n\n(Darrel Miller interviewed by Benjamin Young.)",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27921038?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Darrel Miller \\ PREVIEW\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 379,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "PREVIEW",
+      "title" : "REST Fest 2011 \\ Darrel Miller \\ PREVIEW",
+      "href" : "https://vimeo.com/27921038",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185804545_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27908208?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 7 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 518,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "7 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 7 of 7",
+      "href" : "https://vimeo.com/27908208",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185733567_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27907597?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 6 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 528,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "6 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 6 of 7",
+      "href" : "https://vimeo.com/27907597",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185730603_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185730603_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185730603_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27907264?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 5 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 571,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "5 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 5 of 7",
+      "href" : "https://vimeo.com/27907264",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185729160_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27907009?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 4 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 600,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "4 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 4 of 7",
+      "href" : "https://vimeo.com/27907009",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185728118_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27906734?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 3 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 576,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "3 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 3 of 7",
+      "href" : "https://vimeo.com/27906734",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185726158_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects.\n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time.\n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs.\n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27906406?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 2 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 602,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "2 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 2 of 7",
+      "href" : "https://vimeo.com/27906406",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185724105_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "Mike Amundsen",
+      "description" : "\"The ALPS Microblog Challenge\"\n18 August 2011\n\nMike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects. \n\nHis recent work focuses on the role hypermedia plays in creating and maintaining applications that can successfully evolve over time. \n\nHe has more than a dozen books to his credit and recently contributed to the book \"RESTful Web Services Cookbook\" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs. \n\nWhen he is not working, Mike enjoys spending time with his family in Kentucky, USA.",
+      "year" : "REST Fest 2011",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/27876702?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2011 \\ Mike Amundsen \\ 1 of 7\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 580,
+        "width" : 1280,
+        "height" : 720
+      },
+      "kind" : "1 of 7",
+      "title" : "REST Fest 2011 \\ Mike Amundsen \\ 1 of 7",
+      "href" : "https://vimeo.com/restfest/mikeamundsen1",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_640x360.jpg?r=pad",
+          "width" : 640,
+          "height" : 360
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_960x540.jpg?r=pad",
+          "width" : 960,
+          "height" : 540
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/185530962_1280x720.jpg?r=pad",
+          "width" : 1280,
+          "height" : 720
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Nick",
+      "year" : "5in5 Can REST save Gideon",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15572407?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Can REST save Gideon\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 481,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Can REST save Gideon",
+      "href" : "https://vimeo.com/15572407",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/94043911_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/94043911_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/94043911_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/94043911_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/94043911_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Brad Garette",
+      "year" : "5in5 Web Tools",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15565098?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Web Tools\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 578,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Web Tools",
+      "href" : "https://vimeo.com/15565098",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93989062_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93989062_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93989062_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Chuck Hinson",
+      "year" : "5in5 Cargo Cult of REST",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15564773?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Cargo Cult of REST\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1177,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Cargo Cult of REST",
+      "href" : "https://vimeo.com/15564773",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93982030_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93982030_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93982030_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93982030_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93982030_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Eric Girard",
+      "year" : "5in5 REST Server",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15564460?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 REST Server\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 960,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 REST Server",
+      "href" : "https://vimeo.com/15564460",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93975296_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93975296_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93975296_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93975296_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93975296_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Darrel Miller",
+      "year" : "5in5 Eventlist Media Type",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15564107?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"640\" height=\"424\" frameborder=\"0\" title=\"5in5 Eventlist Media Type\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 538,
+        "width" : 640,
+        "height" : 424
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Eventlist Media Type",
+      "href" : "https://vimeo.com/15564107",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93968624_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93968624_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93968624_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93968624_640x424.jpg?r=pad",
+          "width" : 640,
+          "height" : 424
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93968624_960x636.jpg?r=pad",
+          "width" : 960,
+          "height" : 636
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Mike Amundsen",
+      "year" : "5in5 Hiding the SOAP",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15464190?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Hiding the SOAP\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 282,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Hiding the SOAP",
+      "href" : "https://vimeo.com/15464190",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93185764_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93185764_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93185764_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93185764_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93185764_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Erik Mogensen",
+      "year" : "5in5 Large lists",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15458648?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Large lists\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 673,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Large lists",
+      "href" : "https://vimeo.com/15458648",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93143702_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93143702_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93143702_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "KevBurnsJr",
+      "year" : "Information Architecture",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15457941?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Information Architecture\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1984,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Information Architecture",
+      "href" : "https://vimeo.com/15457941",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93137957_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93137957_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93137957_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93137957_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93137957_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "Mike Amundsen",
+      "year" : "All About EVE",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15457422?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"All About EVE\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2206,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "All About EVE",
+      "href" : "https://vimeo.com/15457422",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93133703_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93133703_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93133703_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93133703_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93133703_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "Darrel Milller - Hypermedia Driven Clients",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15455581?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Darrel Milller - Hypermedia Driven Clients\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 2859,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Darrel Milller - Hypermedia Driven Clients",
+      "href" : "https://vimeo.com/15455581",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93119758_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93119758_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93119758_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93119758_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93119758_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "Glenn Block - PHP MEF",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15455317?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Glenn Block - PHP MEF\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 1340,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Glenn Block - PHP MEF",
+      "href" : "https://vimeo.com/15455317",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93114848_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93114848_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93114848_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93114848_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93114848_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "Erik Mogensen - Ditch your complex client",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15455197?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Erik Mogensen - Ditch your complex client\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 3468,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Erik Mogensen - Ditch your complex client",
+      "href" : "https://vimeo.com/15455197",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/93117270_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93117270_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93117270_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93117270_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/93117270_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 Glenn Block - Composite Apps and REST",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15177470?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Glenn Block - Composite Apps and REST\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 583,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Glenn Block - Composite Apps and REST",
+      "href" : "https://vimeo.com/15177470",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90969170_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90969170_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90969170_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90969170_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90969170_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 Ryan McAllen - Your presentations suck",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15177382?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Ryan McAllen - Your presentations suck\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 499,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Ryan McAllen - Your presentations suck",
+      "href" : "https://vimeo.com/15177382",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90968445_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90968445_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90968445_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90968445_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90968445_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 Erik Mogensen - Observable Pattern in REST",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15176628?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Erik Mogensen - Observable Pattern in REST\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 427,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Erik Mogensen - Observable Pattern in REST",
+      "href" : "https://vimeo.com/15176628",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90961868_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90961868_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90961868_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90961868_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90961868_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 Nick",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15176456?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 Nick\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 489,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 Nick",
+      "href" : "https://vimeo.com/15176456",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90960652_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90960652_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90960652_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90960652_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90960652_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 KevBurnsJr WebHooks",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15175596?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 KevBurnsJr WebHooks\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 349,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 KevBurnsJr WebHooks",
+      "href" : "https://vimeo.com/15175596",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90954298_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90954298_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90954298_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90954298_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90954298_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "5in5 David Zuelke - Restful Airline reservation",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15175183?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"5in5 David Zuelke - Restful Airline reservation\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 500,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "5in5 David Zuelke - Restful Airline reservation",
+      "href" : "https://vimeo.com/15175183",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90947997_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90947997_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90947997_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90947997_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90947997_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "RESTfest workshop by Mike Amundsen",
+      "year" : "Designing Hypermedia - Pt.2",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15143300?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Designing Hypermedia - Pt.2\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 4910,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Designing Hypermedia - Pt.2",
+      "href" : "https://vimeo.com/15143300",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90693690_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90693690_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90693690_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90693690_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90693690_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "RESTFest workshop by Mike Amundsen",
+      "year" : "Designing Hypermedia Pt. 1",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15141689?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"Designing Hypermedia Pt. 1\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 4668,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "Designing Hypermedia Pt. 1",
+      "href" : "https://vimeo.com/15141689",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90684104_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90684104_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90684104_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90684104_640x358.jpg?r=pad",
+          "width" : 640,
+          "height" : 358
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90684104_960x537.jpg?r=pad",
+          "width" : 960,
+          "height" : 537
+        }
+      ]
+    },
+    {
+      "speaker" : "unknown",
+      "description" : "",
+      "year" : "RESTfest Keynote - Glenn Block",
+      "embed" : "<iframe src=\"https://player.vimeo.com/video/15125185?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"400\" height=\"224\" frameborder=\"0\" title=\"RESTfest Keynote - Glenn Block\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "metadata" : {
+        "duration" : 4741,
+        "width" : 400,
+        "height" : 224
+      },
+      "kind" : "unknown",
+      "title" : "RESTfest Keynote - Glenn Block",
+      "href" : "https://vimeo.com/15125185",
+      "images" : [
+        {
+          "href" : "https://i.vimeocdn.com/video/90566056_100x75.jpg?r=pad",
+          "width" : 100,
+          "height" : 75
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90566056_200x150.jpg?r=pad",
+          "width" : 200,
+          "height" : 150
+        },
+        {
+          "href" : "https://i.vimeocdn.com/video/90566056_295x166.jpg?r=pad",
+          "width" : 295,
+          "height" : 166
+        }
+      ]
+    }
+  ]
+}
