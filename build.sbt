@@ -1,6 +1,6 @@
 organization := "org.restfest"
 
-name := "restfest-video-vimeo"
+name := "restfest-vimeo-export"
 
 
 libraryDependencies += "com.squareup.okhttp3" % "okhttp" % "3.4.1"
