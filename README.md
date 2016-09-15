@@ -19,7 +19,7 @@ secret=clientSecret
 
 We will be able to export a channel as a Json file. the json file name will be the same as the `channelId`.
 
-Running on *nix systems and osx
+## Running on *nix systems and osx
 
 `./sbt "run <channelid>"`
 
