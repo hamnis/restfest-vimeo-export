@@ -1,6 +1,6 @@
 package org.restfest.vimeo
 
-import java.io.{File, FileInputStream, IOException}
+import java.io.{File, FileInputStream}
 import java.net.URI
 import java.nio.charset.StandardCharsets
 import java.nio.file.Files
@@ -8,7 +8,6 @@ import java.nio.file.Files
 import Oauth._
 import okhttp3._
 
-import scala.concurrent._
 import argonaut._
 import Argonaut._
 
